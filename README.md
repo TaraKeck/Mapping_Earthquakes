@@ -7,10 +7,15 @@ The purpose of this challenge was to create maps to track earthquakes with a mag
 - Deliverable 3: Add an Additional Map
 
 ## Deliverable 1:  Adding Tectonic Plate Data
-Map below on this deliverable.
+Map below is a visual to show the Tectonic Plate Data.
 
 ![image](https://user-images.githubusercontent.com/85530690/132966865-0798d929-14de-47bf-aa31-036d751d42b1.png)
 
 ## Deliverable 2:  Adding Major Earthquake Data
-Map belwo on this deliverable.
+Map below is a visual to see the Major Earthqake Data. 
+
+<img width="1039" alt="Screen Shot 2021-09-11 at 9 58 11 PM" src="https://user-images.githubusercontent.com/85530690/132968086-914607eb-f6e8-4ff2-ad36-afbcf54709ba.png">
+
+
+
 
