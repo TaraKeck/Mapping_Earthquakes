@@ -19,7 +19,8 @@ Map below is a visual to see the Major Earthqake Data.
 ## Deliverable 3: An Additional Map
 Map below demonstrates a layer added which is "dark" background.
 
-<img width="1039" alt="Screen Shot 2021-09-11 at 9 58 11 PM" src="https://user-images.githubusercontent.com/85530690/132968178-60896be9-ccc2-4031-9e1a-2b6baaa5e470.png">
+<img width="1032" alt="Screen Shot 2021-09-11 at 10 04 30 PM" src="https://user-images.githubusercontent.com/85530690/132968194-5ea9f32d-d55f-4bfd-af6c-a293d17129e1.png">
+
 
 
 
