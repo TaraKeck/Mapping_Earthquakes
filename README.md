@@ -16,6 +16,10 @@ Map below is a visual to see the Major Earthqake Data.
 
 <img width="1039" alt="Screen Shot 2021-09-11 at 9 58 11 PM" src="https://user-images.githubusercontent.com/85530690/132968086-914607eb-f6e8-4ff2-ad36-afbcf54709ba.png">
 
+## Deliverable 3: An Additional Map
+Map below demonstrates a layer added which is "dark" background.
+
+<img width="1039" alt="Screen Shot 2021-09-11 at 9 58 11 PM" src="https://user-images.githubusercontent.com/85530690/132968178-60896be9-ccc2-4031-9e1a-2b6baaa5e470.png">
 
 
 
